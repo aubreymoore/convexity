@@ -11,3 +11,5 @@ wheels/
 
 # files too large for GitHub repo
 sam3.pt
+
+sam3_detections.sqlite3
